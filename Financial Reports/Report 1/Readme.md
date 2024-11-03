@@ -65,6 +65,8 @@ on insights from top regions to improve overall revenue. This dashboard provides
 drive growth across all dimensions of the business.
 
 # Snapshot -- 
+![Screenshot (13)](https://github.com/user-attachments/assets/ff2512da-1d96-4211-9725-dfbff41352be)
+![Screenshot (14)](https://github.com/user-attachments/assets/c65a9f65-6b70-44ff-8b57-f0aded54f30c)
 
 
 
