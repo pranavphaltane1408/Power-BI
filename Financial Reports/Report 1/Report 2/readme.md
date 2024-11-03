@@ -71,6 +71,8 @@ enhancing realization rates across all platforms and increasing revenue in the b
 The dashboard serves as a valuable tool for data-driven decision-making, promoting growth and efficiency across financial dimensions.
 
 # Sanpshots -- 
+![Screenshot (15)](https://github.com/user-attachments/assets/f144bc95-e6f1-4e4d-b99b-e01152c580c5)
+![Screenshot (16)](https://github.com/user-attachments/assets/ba53c9fb-5925-4b6a-b341-e3fe0a247c48)
 
 
 
