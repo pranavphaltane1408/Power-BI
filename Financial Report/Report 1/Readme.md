@@ -1,5 +1,5 @@
 # Report 1
-This Report 1 provides a consolidated view of sales performance across multiple dimensions, 
+This Report provides a consolidated view of sales performance across multiple dimensions, 
 aimed at helping executives gain top-level insights into revenue trends, regional performance, customer segments, and monthly revenue fluctuations 
 over the period from 2017 to 2020.
 # Link -- https://app.powerbi.com/view?r=eyJrIjoiMDIxMjdkNWQtZjc3Yy00Njg1LWFhMWMtOWYyNDg0OGNlYmZmIiwidCI6IjJlOWI4M2I2LTI1MGYtNDY4NC05Mjc3LWVjMzc1YWIxMjMyYSJ9&pageName=a0349265d756cc079c96
