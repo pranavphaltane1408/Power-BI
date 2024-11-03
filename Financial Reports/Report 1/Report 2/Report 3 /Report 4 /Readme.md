@@ -98,4 +98,6 @@ The Report 4 reveals a healthy financial position with:
 
 
 # Snapshot -- 
+![Screenshot (19)](https://github.com/user-attachments/assets/a6c1d0c3-9bbb-4713-878a-fe977b879511)
+![Screenshot (20)](https://github.com/user-attachments/assets/eaaab67f-3719-4e47-a6b4-3ebf2927c8c8)
 
