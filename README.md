@@ -109,3 +109,9 @@ Comprehensive business intelligence dashboard providing deep insights into finan
 - Financial Reporting
 
 ## Dashboard Snapshot -- 
+![Screenshot (3)](https://github.com/user-attachments/assets/2a1ddb07-6446-4e3b-b77d-ac0ce94dff84)
+![Screenshot (4)](https://github.com/user-attachments/assets/ec500ba9-2f36-45bc-a7f7-ac672d24b10c)
+![Screenshot (5)](https://github.com/user-attachments/assets/5570997a-d2c7-4741-8f4e-aff58a229582)
+![Screenshot (6)](https://github.com/user-attachments/assets/c4e0aa86-c103-4123-a48b-15d458df6f96)
+![Screenshot (7)](https://github.com/user-attachments/assets/e764c460-2528-49b3-9d62-bf5cf6f1af50)
+![Screenshot (8)](https://github.com/user-attachments/assets/172eab0d-dda5-4016-a8ea-9d02436a9c4a)
