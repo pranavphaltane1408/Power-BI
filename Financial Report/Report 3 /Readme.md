@@ -66,4 +66,6 @@ suggest potential areas for financial control and efficiency gains. The dashboar
 expense control, revenue growth, and profitability improvements.
 
 # SnapShots --
+![Screenshot (17)](https://github.com/user-attachments/assets/4c3f72f7-510e-4bbe-adb2-1e142e74b979)
+![Screenshot (18)](https://github.com/user-attachments/assets/25aee174-2fbb-4647-9afb-ba88152e3b89)
 
