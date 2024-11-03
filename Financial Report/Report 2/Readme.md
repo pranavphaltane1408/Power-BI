@@ -1,7 +1,7 @@
 # Report 2
 # Link -- https://app.powerbi.com/view?r=eyJrIjoiM2NjZjk0M2YtYTBkNi00Y2E5LTg4NTMtYTA1YjVmNDhjZmJiIiwidCI6IjJlOWI4M2I2LTI1MGYtNDY4NC05Mjc3LWVjMzc1YWIxMjMyYSJ9&pageName=299094f345013cebe493
 # Description :
-This Financial Dashboard provides key insights into financial performance, including revenue trends, occupancy rates, 
+This Report provides key insights into financial performance, including revenue trends, occupancy rates, 
 and realization percentages across various booking platforms and property categories. 
 The analysis covers metrics like RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), 
 and Occupancy Percentage for both weekdays and weekends, segmented by booking platform and property.
