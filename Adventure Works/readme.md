@@ -117,5 +117,9 @@ Key strengths include exceeding revenue and order targets, maintaining a low ret
 4. Investigating product-specific performance variations
 
 # Dashboard-Snapshot --
+![Screenshot (9)](https://github.com/user-attachments/assets/63c841ea-d5c7-4ed8-8280-9a5da9acb975)
+![Screenshot (10)](https://github.com/user-attachments/assets/8fb410da-982c-46d6-ba2a-a99f54dc28b1)
+![Screenshot (11)](https://github.com/user-attachments/assets/062419d8-8ee2-4d1e-9ca3-8e3836024903)
+![Screenshot (12)](https://github.com/user-attachments/assets/9d67741e-b1c5-47a6-b10b-f41c2d0d4c0b)
 
 
