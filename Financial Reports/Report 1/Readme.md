@@ -1,5 +1,5 @@
 
-# Financial Dashboard 
+# Report 1
 This Financial Dashboard provides a consolidated view of sales performance across multiple dimensions, 
 aimed at helping executives gain top-level insights into revenue trends, regional performance, customer segments, and monthly revenue fluctuations 
 over the period from 2017 to 2020.
