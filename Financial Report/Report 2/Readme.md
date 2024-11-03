@@ -73,6 +73,8 @@ The dashboard serves as a valuable tool for data-driven decision-making, promoti
 
 
 # Snapshots--
+![Screenshot (15)](https://github.com/user-attachments/assets/890ec60f-10aa-45ed-bb54-f0766ee8dca7)
+![Screenshot (16)](https://github.com/user-attachments/assets/78751e25-da7b-442b-ac1d-e7e5f7a252d2)
 
 
 
