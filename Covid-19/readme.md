@@ -39,3 +39,8 @@ systems but has also triggered substantial economic and societal changes worldwi
 healthcare infrastructure, regional cooperation, and continued vigilance.
 
 # Report SnapShot : 
+![Screenshot (32)](https://github.com/user-attachments/assets/ce044790-34e6-44a3-8ed5-c053dd0cd2df)
+![Screenshot (33)](https://github.com/user-attachments/assets/4d3a0ce0-bb58-42e9-9bd8-a583366684c5)
+![Screenshot (34)](https://github.com/user-attachments/assets/2a11e0b6-bd0d-45f4-baa3-e07f23f2c79f)
+![Screenshot (35)](https://github.com/user-attachments/assets/6bca4691-43d8-46a2-b5f1-4a473b3685de)
+![Screenshot (36)](https://github.com/user-attachments/assets/45750973-2772-4dce-af33-95eb6d6260dd)
