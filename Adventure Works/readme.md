@@ -40,11 +40,7 @@ Management: 17.4%
 Clerical: 15.7%
 Manual: 11.66%
 
-
-
-
 #Financial Insights
-
 
 1. Revenue Last Month: $627.34K (13.91% above goal)
 2. Total Orders: 644 (3.04% above target)
@@ -65,44 +61,44 @@ Manual: 11.66%
 
 #Important DAX Formulas (Suggested):
 
-1. Total Revenue Calculation:
+    1. Total Revenue Calculation:
 
 Total Revenue = SUM(Sales[Revenue])
 
-2. Return Rate:
+    2. Return Rate:
 
-Return Rate % = 
-DIVIDE(
-    CALCULATE(COUNT(Sales[ReturnFlag]), Sales[ReturnFlag] = 1),
-    CALCULATE(COUNT(Sales[OrderID]))
-) * 100
+        Return Rate % = 
+        DIVIDE(
+            CALCULATE(COUNT(Sales[ReturnFlag]), Sales[ReturnFlag] = 1),
+            CALCULATE(COUNT(Sales[OrderID]))
+        ) * 100
 
-3. Profit Margin:
+    3. Profit Margin:
 
-Profit Margin % = 
-DIVIDE(
-    SUM(Sales[Profit]),
-    SUM(Sales[Revenue])
-) * 100
+    Profit Margin % = 
+        DIVIDE(
+        SUM(Sales[Profit]),
+        SUM(Sales[Revenue])
+        ) * 100
 
-4. Monthly Revenue Growth:
+    4. Monthly Revenue Growth:
 
-Monthly Revenue Growth = 
-VAR CurrentMonthRevenue = CALCULATE(SUM(Sales[Revenue]), MONTH(Sales[OrderDate]) = TODAY())
-VAR PreviousMonthRevenue = CALCULATE(SUM(Sales[Revenue]), MONTH(Sales[OrderDate]) = MONTH(TODAY())-1)
-RETURN 
-DIVIDE(CurrentMonthRevenue - PreviousMonthRevenue, PreviousMonthRevenue) * 100
+        Monthly Revenue Growth = 
+            VAR CurrentMonthRevenue = CALCULATE(SUM(Sales[Revenue]), MONTH(Sales[OrderDate]) = TODAY())
+            VAR PreviousMonthRevenue = CALCULATE(SUM(Sales[Revenue]), MONTH(Sales[OrderDate]) = MONTH(TODAY())-1)
+            RETURN 
+            DIVIDE(CurrentMonthRevenue - PreviousMonthRevenue, PreviousMonthRevenue) * 100
 
-5. Customer Segmentation:
+    5. Customer Segmentation:
 
-Customer Segment = 
-SWITCH(
-    TRUE(),
-    Sales[AnnualIncome] < 30000, "Low Income",
-    Sales[AnnualIncome] < 60000, "Average Income",
-    Sales[AnnualIncome] < 100000, "High Income",
-    "Very High Income"
-)
+        Customer Segment = 
+            SWITCH(
+                TRUE(),
+                    Sales[AnnualIncome] < 30000, "Low Income",
+                    Sales[AnnualIncome] < 60000, "Average Income",
+                    Sales[AnnualIncome] < 100000, "High Income",
+                    "Very High Income"
+        )
 
 
 # Report Summary:
